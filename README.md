@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Currently, learning Frontend, and building a project along side. Check it out - [Website dedidcated to Jaron Lanier](https://n4i9kita.github.io/jaron_lanier/).
-Skills : HTML, CSS and Bootstrap. Learning JS, and frameworks.
+Check it out - [Website dedidcated to Jaron Lanier](https://n4i9kita.github.io/jaron_lanier/).
 
-<!--  https://carbon.now.sh/ : used this website to develop code-styled readme -->
-<!-- ![](nikita.png) -->
+Building : Django Projects; Learning ds and algo.
